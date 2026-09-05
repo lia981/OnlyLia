@@ -1,44 +1,110 @@
+<div align="center">
+
+# 𝙊𝙣𝙡𝙮𝙇𝙞𝙖
+
+### 🎮 Lua & MonetLoader Developer
+
+Creating Lua scripts and modern interfaces for SA-MP Android.
+
+<br>
+
+💻 **Lua Development**  
+🎮 **MonetLoader Scripts**  
+🎨 **mimgui UI**
+
+</div>
+
 ---
 
-# 🚀 My Projects
+# 👋 About
+
+Welcome to **OnlyLia**.
+
+This profile is focused on creating and learning **Lua scripting and MonetLoader development for SA-MP Android**.
+
+Here you can find scripts, learning projects and experiments related to MonetLoader.
+
+---
+
+# 💻 Skills
+
+### Lua
+
+- Lua Basics
+- Variables
+- Functions
+- Tables
+- Loops
+- Commands
+- Configuration Systems
+
+### MonetLoader
+
+- MonetLoader Scripts
+- SA-MP Commands
+- Chat Messages
+- HUD Systems
+- UI Systems
+- Script Configuration
+- Save & Load Systems
+
+### mimgui
+
+- Modern Interfaces
+- Windows
+- Tabs
+- Popups
+- Buttons
+- Input Fields
+- Checkboxes
+- Progress Bars
+- Color Pickers
+
+---
+
+# 🚀 Featured Project
 
 ## 🎮 OnlyLia MonetLoader
 
-A collection of MonetLoader scripts and learning resources for SA-MP Android.
+A collection of Lua and MonetLoader scripts created for learning and experimenting with SA-MP Android scripting.
 
-💻 Lua Scripts  
-🎨 Modern mimgui UI  
-📱 SA-MP Android  
-📚 Beginner Learning Resources
+### What You Can Find
 
-🔗 Check out my MonetLoader projects and scripts.
+- 📚 Basic Lua Learning Scripts
+- 🎮 MonetLoader Examples
+- 🎨 mimgui UI Examples
+- 🧩 Beginner Friendly Scripts
+- 💻 Open Source Learning Projects
 
----
+### 📂 Repository
 
-## 🛠️ What I'm Working On
-
-Currently creating and learning:
-
-- 🎮 MonetLoader Scripts
-- 💻 Lua Development
-- 🎨 Modern mimgui Interfaces
-- 📱 SA-MP Android Tools
-- 🚀 Android Applications
+[🎮 Open OnlyLia MonetLoader Repository](../OnlyLia-MonetLoader)
 
 ---
 
-## 🌟 More Projects Coming Soon
+# 📚 Learning Path
 
-New scripts, tools, UI projects and applications will be added here in the future.
-
-Stay tuned. 🚀
-
----
-
-<div align="center">
-
-### 💗 Thanks for visiting my profile
-
-**OnlyLia — Creating useful tools & modern UI**
-
-</div>
+```text
+Lua Basics
+    ↓
+Variables
+    ↓
+Functions
+    ↓
+Tables
+    ↓
+Loops
+    ↓
+SA-MP Commands
+    ↓
+Chat Messages
+    ↓
+mimgui UI
+    ↓
+HUD Systems
+    ↓
+Settings
+    ↓
+Save & Load
+    ↓
+Advanced MonetLoader Scripts
