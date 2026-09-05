@@ -25,3 +25,9 @@ Building new MonetLoader scripts and improving my Lua development skills.
 ---
 
 ⭐ **Welcome to my GitHub profile!**
+
+## 📊 GitHub Stats
+
+![OnlyLia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lia981&show_icons=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lia981&layout=compact&hide_border=true)
