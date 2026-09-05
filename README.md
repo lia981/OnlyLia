@@ -1,4 +1,7 @@
 # 𝙊𝙣𝙡𝙮𝙇𝙞𝙖 👋
+![Lua](https://img.shields.io/badge/Lua-Scripter-blue?style=for-the-badge&logo=lua)
+![MonetLoader](https://img.shields.io/badge/MonetLoader-Developer-purple?style=for-the-badge)
+![SA-MP](https://img.shields.io/badge/SA--MP-Android-orange?style=for-the-badge)
 
 ### 🎮 MonetLoader Script Developer
 
