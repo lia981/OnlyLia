@@ -1,33 +1,44 @@
-# 𝙊𝙣𝙡𝙮𝙇𝙞𝙖 👋
-![Lua](https://img.shields.io/badge/Lua-Scripter-blue?style=for-the-badge&logo=lua)
-![MonetLoader](https://img.shields.io/badge/MonetLoader-Developer-purple?style=for-the-badge)
-![SA-MP](https://img.shields.io/badge/SA--MP-Android-orange?style=for-the-badge)
+---
 
-### 🎮 MonetLoader Script Developer
+# 🚀 My Projects
 
-> Creating useful tools & modern UI for SA-MP Android.
+## 🎮 OnlyLia MonetLoader
+
+A collection of MonetLoader scripts and learning resources for SA-MP Android.
+
+💻 Lua Scripts  
+🎨 Modern mimgui UI  
+📱 SA-MP Android  
+📚 Beginner Learning Resources
+
+🔗 Check out my MonetLoader projects and scripts.
 
 ---
 
-## 💻 About Me
+## 🛠️ What I'm Working On
 
-- 🎮 Focused on MonetLoader development
-- 💻 Lua Script Developer
-- 📱 SA-MP Android
-- 🎨 Creating modern UI & useful tools
+Currently creating and learning:
 
----
-
-### ⚡ Currently Working On
-
-Building new MonetLoader scripts and improving my Lua development skills.
+- 🎮 MonetLoader Scripts
+- 💻 Lua Development
+- 🎨 Modern mimgui Interfaces
+- 📱 SA-MP Android Tools
+- 🚀 Android Applications
 
 ---
 
-⭐ **Welcome to my GitHub profile!**
+## 🌟 More Projects Coming Soon
 
-## 📊 GitHub Stats
+New scripts, tools, UI projects and applications will be added here in the future.
 
-![OnlyLia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lia981&show_icons=true&hide_border=true)
+Stay tuned. 🚀
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lia981&layout=compact&hide_border=true)
+---
+
+<div align="center">
+
+### 💗 Thanks for visiting my profile
+
+**OnlyLia — Creating useful tools & modern UI**
+
+</div>
