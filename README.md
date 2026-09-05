@@ -28,7 +28,7 @@ Here you can find scripts, learning projects and experiments related to MonetLoa
 
 # 💻 Skills
 
-### Lua
+## Lua
 
 - Lua Basics
 - Variables
@@ -38,7 +38,7 @@ Here you can find scripts, learning projects and experiments related to MonetLoa
 - Commands
 - Configuration Systems
 
-### MonetLoader
+## MonetLoader
 
 - MonetLoader Scripts
 - SA-MP Commands
@@ -48,7 +48,7 @@ Here you can find scripts, learning projects and experiments related to MonetLoa
 - Script Configuration
 - Save & Load Systems
 
-### mimgui
+## mimgui
 
 - Modern Interfaces
 - Windows
@@ -78,7 +78,7 @@ A collection of Lua and MonetLoader scripts created for learning and experimenti
 
 ### 📂 Repository
 
-[🎮 Open OnlyLia MonetLoader Repository](../OnlyLia-MonetLoader)
+[🎮 Open OnlyLia MonetLoader Repository](https://github.com/lia981/OnlyLia-MonetLoader)
 
 ---
 
